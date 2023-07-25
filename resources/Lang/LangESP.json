@@ -28,5 +28,8 @@
   "TakeCoinsSender": "§6Has restado a §e{target} §f:§e {coins} monedas §6exitosamente.",
   "TakeCoinsTarget": "§6Has recibido de §e{sender} §f:§e {coins} monedas §6exitosamente.",
   "TopCoinsCommand": 0,
-  "TopCoins": "=======§f[§cTopCoins§f]======="
+  "TopCoins": "=======§f[§cTopCoins§f]=======",
+  "TopCoinsUsage": "§eUso: /topcoins (página)",
+  "TopCoinsPageError": "§cLa página especificada no existe. Hay un total de {maxpage} páginas.",
+  "TopCoinsPageList": "§5Página §d{page}§f/§d{maxpage}"
 }

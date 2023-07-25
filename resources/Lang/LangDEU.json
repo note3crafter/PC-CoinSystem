@@ -28,5 +28,8 @@
   "TakeCoinsSender": "§6Du hast§e {target} §f:§e {coins} Coins §6abgezogen!",
   "TakeCoinsTarget": "§6Du hast von §e{sender} §f:§e {coins} Coins §6abgezogen bekommen!",
   "TopCoinsCommand": 0,
-  "TopCoins": "=======§f[§cTopCoins§f]======="
+  "TopCoinsTitle": "=======§f[§cTopCoins§f]=======",
+  "TopCoinsUsage": "§eNutze : /topcoins (page)",
+  "TopCoinsPageError": "§cDie angegebene Seite existiert nicht. Es gibt insgesamt {maxpage} Seiten.",
+  "TopCoinsPageList": "§5Seite §d{page}§f/§d{maxpage}"
 }

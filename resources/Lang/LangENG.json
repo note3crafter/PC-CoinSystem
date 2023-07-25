@@ -28,5 +28,8 @@
   "TakeCoinsSender": "§6You deducted §e{target} §f:§e {coins} Coins §6successfully!",
   "TakeCoinsTarget": "§6You received §e{sender} §f:§e {coins} Coins §6successfully!",
   "TopCoinsCommand": 0,
-  "TopCoins": "=======§f[§cTopCoins§f]======="
+  "TopCoins": "=======§f[§cTopCoins§f]=======",
+  "TopCoinsUsage": "§eUsage: /topcoins (page)",
+  "TopCoinsPageError": "§cThe specified page does not exist. There are a total of {maxpage} pages.",
+  "TopCoinsPageList": "§5Page §d{page}§f/§d{maxpage}"
 }
