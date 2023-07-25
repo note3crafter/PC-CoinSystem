@@ -1,0 +1,25 @@
+name: PC-CoinSystem
+main: TheNote\CoinSystem\Main
+version: 1.0.0
+api:
+  - 5.3.0
+author: TheNote/Rudolf2000/note3crafter
+description: PC-CoinSystem v.1.0.0
+softdepend:
+  - ProjectCore
+permissions:
+  coins.command.give:
+    default: op
+    description: "Gives Player Coins"
+  coins.command.pay:
+    default: op
+    description: "Pay Player Coins"
+  coins.command.see:
+    default: op
+    description: "See Player Coins"
+  coins.command.set:
+    default: op
+    description: "Set Player Coins"
+  coins.command.take:
+    default: op
+    description: "Take Player Coins"

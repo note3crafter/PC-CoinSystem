@@ -1,0 +1,10 @@
+---
+Coins: "§f[§dCoins§f] "
+GiveCoinsDescription: "Gebe einem Spieler Coins"
+MyCoinsDescription: "Siehe deine Coins"
+PayCoinsDescription: "Zahle einem Spieler Coins"
+SeeCoinsDescription: "Siehe den Coinstand eines anderen Spielers"
+SetCoinsDesctiption: "Setze einem Spieler Coins"
+TakeCoinsDescription: "Hole Coins eines Spielers"
+TopCoinsDescription: "Siehe die TopCoin Liste"
+...
