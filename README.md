@@ -12,7 +12,7 @@ $c = new CoinAPI;
 $c->addCoins($player, $amount);
 #Remove here Coins from a Player
 $c->removeCoins($player, $amount);
-#Get here the Coins from a Player. its a Strin you need the playername!
+#Get here the Coins from a Player. its a String you need the playername!
 $c->getCoins($player->getName); 
 ```
 
