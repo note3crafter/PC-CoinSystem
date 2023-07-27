@@ -64,7 +64,7 @@ class TakeCoinsCommand extends Command implements Listener
             $sender->sendMessage($api->getCommandPrefix("Error") . $api->getLang($sender->getName(),"PlayernotOnline"));
             return false;
         }
-        $api->removeMoney($target, (int)$args[1]);
+        $capi->removeCoins($target, (int)$args[1]);
         $message = str_replace("{target}", $target->getName(), $this->plugin->getLang($sender->getName(),"TakeCoinsSender"));
         $message1 = str_replace("{coins}", $args[1] , $message);
         $sender->sendMessage($this->plugin->getCommandPrefix("Coins") . $message1);
