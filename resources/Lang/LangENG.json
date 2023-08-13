@@ -22,7 +22,7 @@
   "SetCoinsSender": "§6The coin balance of §e{target} §6has been set to §f:§e {coins} Coins §6successfully!",
   "SetCoinsTarget": "§6Your coin balance has been set to §f:§e {coins} Coins §6successfully!",
   "TakeCoinsCommand": 0,
-  "TakeCoinsUsage": "§c Usage: /takecoins (player) (coins)",
+  "TakeCoinsUsage": "§cUsage: /takecoins (player) (coins)",
   "TakeCoinsNumb": "§cPlease enter a numeric value!",
   "TakeCoinsNotYourSelf": "§cYou can't deduct coins from yourself!",
   "TakeCoinsSender": "§6You deducted §e{target} §f:§e {coins} Coins §6successfully!",
